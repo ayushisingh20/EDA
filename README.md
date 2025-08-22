@@ -13,12 +13,19 @@ This project involves Exploratory Data Analysis (EDA) of a Diwali Sales dataset 
 
 ## 2.Exploratory Data Analysis (EDA)
 Analysis was performed across multiple dimensions:
+
 -Gender: Women contribute to higher sales than men, both in terms of count and total purchase amount.
+
 -Age Group: Majority of buyers are from the 26–35 years age group, with women dominating.
+
 -State-wise Sales: States like Uttar Pradesh, Maharashtra, and Karnataka lead in sales volume and revenue.
+
 -Marital Status: Married women form the largest customer group.
+
 -Occupation: Customers from IT, Healthcare, and Aviation sectors show higher purchase activity.
+
 -Product Categories: Most purchased products fall under Food, Clothing, and Electronics.
+
 -Top Selling Products: Identified high-selling product IDs contributing significantly to revenue.
 
 ## 3.Key Insights:
