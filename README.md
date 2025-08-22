@@ -6,9 +6,13 @@ This project involves Exploratory Data Analysis (EDA) of a Diwali Sales dataset 
 
 ## 1.Data Cleaning & Preparation
 -Loaded dataset and checked its structure.
+
 -Dropped irrelevant columns (Status, unnamed1).
+
 -Removed null values.
+
 -Converted data types (e.g., Amount to integer).
+
 -Renamed columns for better readability.
 
 ## 2.Exploratory Data Analysis (EDA)
